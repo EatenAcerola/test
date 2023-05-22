@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "psi-line-bot",
+  "private_key_id": "faa360d0481108799e478b28bf1e3eff8735582e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6/t9bqX5OkMwt\nRglV7ShgKgjA+qnDdnh05vc9Jh+/3HuBe9pdJ+FfyPYnXO8a3K2sJOPFTA2z24gQ\n04OAfqREn7uyoUYCC7VNkELAzB7vVk44mXN2V8EfljO0SxD/0e5EcpI/IIYxnCoU\n4O6ZiLuV4WNwwvLnRTkT0eNovcpXOnLJyfp+Ui/Ng/j8LV3ZbY55EiRNUY4KbEq6\nahcKHsCgIMCdFuqRMbR8AhqpbL+nnu95daHHu4AhPpShybKJ4WKbRBPa4ZDS8vUC\nflFXtN11JDpz82J9vTdm3Hos97DCbn/TpbqNFHD8d47Vpqu/1w92hZCcy7cpq1R7\nB8MS//iBAgMBAAECggEADj0E8zJN4JvsPWWapV/Nq2YtTMsUAm2dZhgGFbJhnYF4\n0qxZvVkhiI0Wl9Be5naM2ibkRFbHqP0beF3aoqiXR8sP3DNPz4JmYjW3V33TZy70\n/XX1vDpEsBaG8QCm6+ESGZp4YfUkiAIs6XJnyJSy5TUzFgLKGGuwGRRqEpoiSOTp\nfmtQowUb/DkFC7OkzpCKsMl1Ske1auAA1WcC3wkkjy8b0CI2JTZYHCvkv1d7jGIG\ncBxWq82pUJbdJHzQeoaxdKHVlRVYLt6rO4ESjU2PcNeEfk7SDPy7wkRPHjKdIrHf\nWMnMs9Yz5tS0XIHFGCSW/0RN3jTn8o4Ts5vYZGePZwKBgQDt8gjsXPZR6b2VUVIW\nBV0bcwk8FvScwnVmPsoqgtSL9hzYiSpOdTxE+Q7FcO+dBgSpnuAZX7Ru3+Jfk5J/\n3ppV5QrVAfB20EA7a/c3JQSqFZc6ov/FxQ005Pj4s5ZvgNcGrbemnxrou4SLU2++\n/YiNtZczaz9S2KQHjZobDzzsgwKBgQDJLyneXEysQZZBXITYwFI4l5OLNW5f6m4L\nlDs/vqJets5kLepa+DPaLH/xukSs/PUKuPwlVBjlnp2040vMBi61VGdR3f+qet6Z\nXLaNgv57XKm4GRTnuYLIsyay4GW1pGE0C9GhyWKMzyiP3ZeAi1QMeFVcWuZkMLUr\n9QS6lNN/qwKBgF5kG2IYZqaMAOcRAW02536SHeG2gYcGJShQVEaU69gx47OKhjvl\niekam997M7KoxoS7P88RBjTNn7GmiwEqvzK/z5I8WLXpWvG3nLRFfRozwnBCZRCB\nYQHQq2uNYmoNRD+j/iydBUG50ZSrnrK3RMpidP6y1sX4pulQJQgC/XodAoGAR07V\nO0Bh2MhidoZRe/Ym7nIjVLs6hPq1yJrgqUZrjMCkxPNVVqsUzebp7ocEIoCCZiuN\nC7oUHQcshNnvmsAyPAlPmb/jB80HKzqmZeAhTR5Z9avGMiAZ0ANX2x0YT9qUrXrm\n8b5MlPY0PVHgiipYPxdDwjlh4e81t//fjjaEBIMCgYBlVN0oJ2Zr6zHPyh9kqGo8\n1enI4DaT1YuMXqlWZwqDjlRIcFe7VgAKZyHJ5tQMUACnOcI4oCOvV3uM1XOBz5AE\nQ/32bsMkyFGXQuEkx+6W5a2umj7tIMbej3IGwm0p4wqzZoP4b/VyhYh5c4CCB6cr\n8zcIY6LfJgdRWuUanumWqg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hiroto360@psi-line-bot.iam.gserviceaccount.com",
+  "client_id": "103541374451130714476",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hiroto360%40psi-line-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
